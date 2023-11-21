@@ -1,0 +1,406 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+#igrvrf {
+    background-color: var(--bs-body-bg);
+    font-size: var(--bs-body-font-size);
+    font-weight: var(--bs-body-font-weight);
+    text-align: var(--bs-body-text-align);
+}
+
+#ihisdp {
+    margin: 0px;
+    position: relative;
+}
+
+#ipxxwg {
+    line-height: inherit;
+    orphans: 4;
+    margin-right: 0px;
+    margin-bottom: 0.5rem;
+    margin-left: 0px;
+    white-space-collapse: preserve;
+    position: relative;
+}
+
+#ir3ogp {
+    margin: 0px;
+    position: relative;
+}
+
+#i7mnlg {
+    line-height: inherit;
+    orphans: 4;
+    margin-right: 0px;
+    margin-bottom: 0.5rem;
+    margin-left: 0px;
+    white-space-collapse: preserve;
+    position: relative;
+}
+
+#iq8c8g {
+    margin: 0px;
+    position: relative;
+}
+
+#i35ids {
+    line-height: inherit;
+    orphans: 4;
+    margin-right: 0px;
+    margin-bottom: 0.5rem;
+    margin-left: 0px;
+    white-space-collapse: preserve;
+    position: relative;
+}
+
+#i3yunu {
+    margin: 0px;
+    position: relative;
+}
+
+#iwnz5m {
+    line-height: inherit;
+    orphans: 4;
+    margin-right: 0px;
+    margin-bottom: 0.5rem;
+    margin-left: 0px;
+    white-space-collapse: preserve;
+    position: relative;
+}
+
+#i6eumj {
+    margin: 0px;
+    position: relative;
+}
+
+#i3lsxv {
+    line-height: inherit;
+    orphans: 4;
+    margin-right: 0px;
+    margin-bottom: 0.5rem;
+    margin-left: 0px;
+    white-space-collapse: preserve;
+    position: relative;
+}
+
+#iu0ah1 {
+    margin: 0px;
+    position: relative;
+}
+
+#igat73 {
+    line-height: inherit;
+    orphans: 4;
+    margin-right: 0px;
+    margin-bottom: 0.5rem;
+    margin-left: 0px;
+    white-space-collapse: preserve;
+    position: relative;
+}
+
+#i6jxog {
+    margin: 0px;
+    position: relative;
+}
+
+#i0ay69 {
+    line-height: inherit;
+    orphans: 4;
+    margin-right: 0px;
+    margin-bottom: 0.5rem;
+    margin-left: 0px;
+    white-space-collapse: preserve;
+    position: relative;
+}
+
+#iyglzj {
+    margin: 0px;
+    position: relative;
+}
+
+#i4qf9o {
+    line-height: inherit;
+    orphans: 4;
+    margin-right: 0px;
+    margin-bottom: 0.5rem;
+    margin-left: 0px;
+    white-space-collapse: preserve;
+    position: relative;
+}
+
+#ir94td {
+    margin: 0px;
+    position: relative;
+}
+
+#i720fl {
+    line-height: inherit;
+    orphans: 4;
+    margin-right: 0px;
+    margin-bottom: 0.5rem;
+    margin-left: 0px;
+    white-space-collapse: preserve;
+    position: relative;
+}
+
+#iccr07 {
+    margin: 0px;
+    position: relative;
+}
+
+#iawvzs {
+    line-height: inherit;
+    orphans: 4;
+    margin-right: 0px;
+    margin-bottom: 0.5rem;
+    margin-left: 0px;
+    white-space-collapse: preserve;
+    position: relative;
+}
+
+#ikx5e2 {
+    margin: 0px;
+    position: relative;
+}
+
+#i46w6m {
+    line-height: inherit;
+    orphans: 4;
+    margin-right: 0px;
+    margin-bottom: 0.5rem;
+    margin-left: 0px;
+    white-space-collapse: preserve;
+    position: relative;
+}
+
+#ijg9nk {
+    word-break: break-all;
+}
+
+#iplscr {
+    cursor: pointer;
+    color: rgb(65, 131, 196);
+    -webkit-user-drag: none;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Roboto, Arial, "PingFang SC", "Hiragino Sans GB", "Microsoft Yahei", "Microsoft Jhenghei", sans-serif;
+}
+
+.logo path {
+    pointer-events: none;
+    fill: none;
+    stroke-linecap: round;
+    stroke-width: 7;
+    stroke: rgb(255, 255, 255);
+}
+
+.wechat-group img {
+    max-width: 220px;
+    height: auto;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+    width: 100%;
+}
+
+.welcome-img img {
+    width: 100%;
+}
+
+.c8946 {
+    padding: 10px;
+    font-family: "Hiragino Sans GB", sans-serif;
+    font-size: 27px;
+    text-align: center;
+}
+
+.c9115 {
+    padding: 10px;
+}
+
+.c9173 {
+    line-height: inherit;
+    orphans: 4;
+    margin: 0.8em 0px;
+    white-space-collapse: preserve;
+    position: relative;
+    color: rgb(51, 51, 51);
+    font-family: "Open Sans", "Clear Sans", "Helvetica Neue", Helvetica, Arial, "Segoe UI Emoji", sans-serif;
+    word-spacing: 0px;
+}
+
+.c9212 {
+    line-height: inherit;
+    orphans: 4;
+    margin: 0.8em 0px;
+    white-space-collapse: preserve;
+    position: relative;
+    color: rgb(51, 51, 51);
+    font-family: "Open Sans", "Clear Sans", "Helvetica Neue", Helvetica, Arial, "Segoe UI Emoji", sans-serif;
+    word-spacing: 0px;
+}
+
+.c9240 {
+    line-height: inherit;
+    orphans: 4;
+    margin: 0.8em 0px;
+    white-space-collapse: preserve;
+    position: relative;
+    color: rgb(51, 51, 51);
+    font-family: "Open Sans", "Clear Sans", "Helvetica Neue", Helvetica, Arial, "Segoe UI Emoji", sans-serif;
+    word-spacing: 0px;
+}
+
+.c9267 {
+    margin: 0.8em 0px;
+    padding-left: 30px;
+    position: relative;
+    color: rgb(51, 51, 51);
+    font-family: "Open Sans", "Clear Sans", "Helvetica Neue", Helvetica, Arial, "Segoe UI Emoji", sans-serif;
+    word-spacing: 0px;
+}
+
+.c9386 {
+    line-height: inherit;
+    orphans: 4;
+    margin: 0.8em 0px;
+    white-space-collapse: preserve;
+    position: relative;
+    color: rgb(51, 51, 51);
+    font-family: "Open Sans", "Clear Sans", "Helvetica Neue", Helvetica, Arial, "Segoe UI Emoji", sans-serif;
+    word-spacing: 0px;
+}
+
+.c9413 {
+    margin: 0.8em 0px;
+    padding-left: 30px;
+    position: relative;
+    color: rgb(51, 51, 51);
+    font-family: "Open Sans", "Clear Sans", "Helvetica Neue", Helvetica, Arial, "Segoe UI Emoji", sans-serif;
+    word-spacing: 0px;
+}
+
+.c9530 {
+    line-height: inherit;
+    orphans: 4;
+    margin: 0.8em 0px;
+    white-space-collapse: preserve;
+    position: relative;
+    color: rgb(51, 51, 51);
+    font-family: "Open Sans", "Clear Sans", "Helvetica Neue", Helvetica, Arial, "Segoe UI Emoji", sans-serif;
+    word-spacing: 0px;
+}
+
+.c9557 {
+    margin: 0.8em 0px;
+    padding-left: 30px;
+    position: relative;
+    color: rgb(51, 51, 51);
+    font-family: "Open Sans", "Clear Sans", "Helvetica Neue", Helvetica, Arial, "Segoe UI Emoji", sans-serif;
+    word-spacing: 0px;
+}
+
+.c9674 {
+    line-height: inherit;
+    orphans: 4;
+    margin: 0.8em 0px;
+    white-space-collapse: preserve;
+    position: relative;
+    color: rgb(51, 51, 51);
+    font-family: "Open Sans", "Clear Sans", "Helvetica Neue", Helvetica, Arial, "Segoe UI Emoji", sans-serif;
+    word-spacing: 0px;
+}
+
+.c9701 {
+    line-height: inherit;
+    orphans: 4;
+    margin: 0.8em 0px;
+    white-space-collapse: preserve;
+    position: relative;
+    color: rgb(51, 51, 51);
+    font-family: "Open Sans", "Clear Sans", "Helvetica Neue", Helvetica, Arial, "Segoe UI Emoji", sans-serif;
+    word-spacing: 0px;
+}
+
+.c9728 {
+    line-height: inherit;
+    orphans: 4;
+    margin: 0.8em 0px;
+    white-space-collapse: preserve;
+    position: relative;
+    color: rgb(51, 51, 51);
+    font-family: "Open Sans", "Clear Sans", "Helvetica Neue", Helvetica, Arial, "Segoe UI Emoji", sans-serif;
+    word-spacing: 0px;
+}
+
+.c9755 {
+    margin: 0.8em 0px;
+    padding-left: 30px;
+    position: relative;
+    color: rgb(51, 51, 51);
+    font-family: "Open Sans", "Clear Sans", "Helvetica Neue", Helvetica, Arial, "Segoe UI Emoji", sans-serif;
+    word-spacing: 0px;
+}
+
+.c9836 {
+    line-height: inherit;
+    orphans: 4;
+    margin: 0.8em 0px;
+    white-space-collapse: preserve;
+    position: relative;
+    color: rgb(51, 51, 51);
+    font-family: "Open Sans", "Clear Sans", "Helvetica Neue", Helvetica, Arial, "Segoe UI Emoji", sans-serif;
+    word-spacing: 0px;
+}
+
+.c9863 {
+    line-height: inherit;
+    orphans: 4;
+    margin: 0.8em 0px;
+    white-space-collapse: preserve;
+    position: relative;
+    color: rgb(51, 51, 51);
+    font-family: "Open Sans", "Clear Sans", "Helvetica Neue", Helvetica, Arial, "Segoe UI Emoji", sans-serif;
+    word-spacing: 0px;
+}
+
+.c9890 {
+    line-height: inherit;
+    orphans: 4;
+    margin: 0.8em 0px;
+    white-space-collapse: preserve;
+    position: relative;
+    color: rgb(51, 51, 51);
+    font-family: "Open Sans", "Clear Sans", "Helvetica Neue", Helvetica, Arial, "Segoe UI Emoji", sans-serif;
+    word-spacing: 0px;
+}
+
+.c9948 {
+    line-height: inherit;
+    orphans: 4;
+    margin: 0.8em 0px;
+    white-space-collapse: preserve;
+    position: relative;
+    color: rgb(51, 51, 51);
+    font-family: "Open Sans", "Clear Sans", "Helvetica Neue", Helvetica, Arial, "Segoe UI Emoji", sans-serif;
+    word-spacing: 0px;
+}
